@@ -1,0 +1,10 @@
+{
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "github-icon",
+    "categories": [
+        "Go",
+        "Vue"
+    ],
+    "filePatterns": [ "^Dockerfile" ]
+}
